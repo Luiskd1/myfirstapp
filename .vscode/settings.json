@@ -1,0 +1,6 @@
+{
+    "material-icon-theme.activeIconPack": "nest",
+    "[typescript]": {
+        "editor.defaultFormatter": "Jota0222.multi-formatter"
+    }
+}
